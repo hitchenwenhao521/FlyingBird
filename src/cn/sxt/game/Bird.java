@@ -3,7 +3,7 @@ import java.awt.Graphics;
 import java.awt.Image;
 import java.awt.Rectangle;
 import java.awt.event.KeyEvent;
-
+//lalala
 public class Bird  extends GameObject {
 	boolean space;
 	boolean live = true;
